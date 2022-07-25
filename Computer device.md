@@ -1,1 +1,6 @@
+
 A computer mouse is a coordinate device for controlling the cursor and issuing various commands to the computer.
+
+Monitor - a device for operational visual communication between the user and the control device and displaying data transmitted from the keyboard, mouse or central processor.
+A computer keyboard is a device that allows the user to enter information into a computer (input device).
+**A computer is a device that performs logical operations and data processing, can use input and output devices to display information, and usually includes a central processing unit (CPU) to perform operations. If there is no central processing unit, then the device must function as a "client gateway" to a computer server that acts as a computing processing unit.**
