@@ -1,1 +1,1 @@
-Motherboard (system) board (English motherboard, colloquially: “motherboard”, “mother”) is a printed circuit board that is the basis for building a modular electronic device, for example, a computer.
+Sound card (sound card, audio card; English sound card) - additional equipment of a personal computer and laptop that allows you to process sound (output to speakers and / or record) and connect additional devices. At the time of their appearance, sound cards were separate expansion cards installed in the corresponding slot.
