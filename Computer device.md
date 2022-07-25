@@ -1,1 +1,1 @@
-Central processing unit (CPU; also central processing unit - CPU; English central processing unit, CPU, literally - central processing unit, often just a processor) - an electronic unit or an integrated circuit that executes machine instructions (program code), the main part of computer hardware or programmable logic controller. Sometimes this component is simply referred to as the processor.
+Motherboard (system) board (English motherboard, colloquially: “motherboard”, “mother”) is a printed circuit board, which is the structure of a modular device, for example, a computer.
