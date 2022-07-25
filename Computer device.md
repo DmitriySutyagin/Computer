@@ -1,1 +1,1 @@
-
+An optical disc drive (also a CD drive, CD drive) is an electromechanical device for reading and (in most modern models) recording, by means of a laser, information from optical discs in the form of a plastic disc with a hole in the center (CD, DVD and etc.
