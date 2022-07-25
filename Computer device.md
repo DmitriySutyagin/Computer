@@ -1,1 +1,2 @@
-
+The built-in computer power supply is a device designed to convert AC voltage from the mains into DC voltage in order to power a computer or server computer.
+Cooler - when applied to computer topics - the Russian name for an assembly of a fan with a radiator, installed for air cooling of computer electronic components with increased heat dissipation (usually more than 5 W): central and graphic processors, chipset microcircuits.
