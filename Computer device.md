@@ -1,1 +1,1 @@
-
+**A computer is a device that performs logical operations and data processing, can use input and output devices to display information, and usually includes a central processing unit (CPU) to perform operations. If there is no central processing unit, then the device must function as a "client gateway" to a computer server that acts as a computing processing unit.**
